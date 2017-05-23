@@ -1,4 +1,8 @@
----
+
+
+## Who can access the data?
+* Users in the Security Admin or Security Reader role
+* Global Admins---
 
 title: Sign-in activity reports in the Azure Active Directory portal | Microsoft Docs
 description: Introduction to sign-in activity reports in the Azure Active Directory portal 
@@ -32,6 +36,15 @@ The reporting architecture in Azure Active Directory consists of the following c
     - **Users flagged for risk** - A risky user is an indicator for a user account that might have been compromised. For more details, see Users flagged for risk.
 
 This topic gives you an overview of the sign-in activities.
+
+## Who can access the data?
+* Users in the Security Admin or Security Reader role
+* Global Admins
+* Any user (non-admins) can access their own sign-ins 
+
+## Azure AD License Requirement
+* Your tenant must have an Azure AD Premium license associated with it to see the all up sign-in activity report
+
 
 ## Signs-in activities
 
