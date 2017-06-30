@@ -18,7 +18,7 @@ ms.date: 04/06/2017
 ms.author: markvi
 
 ---
-# Azure Active Directory reporting
+# Azure Active Directory Reports
 
 
 *This documentation is part of the [Azure Active Directory Reporting Guide](active-directory-reporting-guide.md).*
