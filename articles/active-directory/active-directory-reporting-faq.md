@@ -80,6 +80,17 @@ For more details, see [Azure Active Directory reporting](active-directory-report
 
 **A:**: If you have recently switched to a Premium version (including a trial version), you can see data up to 7 days initially. When data accumulates, you will see up to 30 days.
 
- 
+---
+
+**Q: How can I download the “Users flagged for risk” report in Azure portal?**
+
+**A:**:The option to download “Users flagged for risk” report will be added soon.
+
+---
+
+**Q: How can I know the reason why a sign-in or a user was flagged risky in the Azure portal?**
+
+**A:**:Premium edition customers can learn more about the underlying risk events by clicking on the user in “Users flagged for risk” or by clicking on the “Risky sign-ins”. Free and Basic edition customers get to see the at-risk users and sign-ins without the underlying risk event information.
+
 ---
 
