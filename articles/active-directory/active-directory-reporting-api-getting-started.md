@@ -1,6 +1,6 @@
 ---
 
-title: Getting started with the Azure AD reporting API on the Azure AD classic portal | Microsoft Docs
+title: Getting started with the Azure AD reporting API on the Azure portal | Microsoft Docs
 description: How to get started with the Azure Active Directory reporting API
 services: active-directory
 documentationcenter: ''
@@ -26,7 +26,6 @@ Azure Active Directory provides you with a variety of reports. The data of these
 This article provides you with the information you need to get started with the Azure AD reporting APIs.
 In the next section, you find more details about using the audit and sign-in APIs. For all other APIs, see the [Azure AD reports and events(preview)](https://msdn.microsoft.com/Library/Azure/Ad/Graph/howto/azure-ad-reports-and-events-preview) article.
 
-For questions, issues or feedback, please contact [AAD Reporting Help](mailto:aadreportinghelp@microsoft.com).
 
 ## Learning map
 1. **Prepare** - Before you can test your API samples, you need to complete the [prerequisites to access the Azure AD reporting API](active-directory-reporting-api-prerequisites.md).
@@ -39,6 +38,5 @@ For questions, issues or feedback, please contact [AAD Reporting Help](mailto:aa
    * [Using the audit API reference](active-directory-reporting-api-audit-reference.md) 
    * [Using the sign-in activity report API reference](active-directory-reporting-api-sign-in-activity-reference.md)
 
-## Next Steps
-If you are curious to see all of the available Azure AD Graph API endpoints by navigating to [https://graph.windows.net/tenant-name/reports/$metadata?api-version=beta](https://graph.windows.net/tenant-name/reports/$metadata?api-version=beta).
+
 
